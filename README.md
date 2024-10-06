@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Soham+Datta;CTF+Player+%26+Cybersecurity+Enthusiast;Trader+%26+Financial+Analyst;Python+Algorithmic+Trading+Developer&center=true&size=30&duration=3000&pause=1000&width=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Soham+Datta;CTF+Player+%26+Cybersecurity+Enthusiast;Trader+%26+Financial+Analyst;Python+Algorithmic+Trading+Developer&center=true&size=30&duration=3000&pause=1000&width=700" alt="Typing SVG" />
 </h1>
 <div align="center">
   <img src="https://github.com/Soham-78micro/Gifs/blob/main/ezgif-6-444bc44d7c-unscreen.gif?raw=true" width="200" height="200" alt="Custom GIF">
