@@ -4,8 +4,11 @@
 <div align="center">
   <img src="https://github.com/Soham-78micro/Gifs/blob/main/ezgif-6-444bc44d7c-unscreen.gif?raw=true" width="200" height="200" alt="Custom GIF">
 </div>
-# 💫 About Me:
+
+
+## 💫 About Me:
 🔐 CTF player and cybersecurity enthusiast 💻<br>📈 Trader and financial analyst 💹<br>🐍 Python-based algorithmic trading developer 🤖<br>💼 Currently working on:<br><br>Algorithmic trading strategies 📊<br>Full-stack development 🌐<br>🛠️ Learning HTML, CSS, and JavaScript 🚀<br>🌟 Always excited to learn and grow in tech and finance! 🧠
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soham_988/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-datta-%E2%80%8E-83953428a/)
