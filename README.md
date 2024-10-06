@@ -3,10 +3,11 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/Soham-78micro/Gifs/blob/main/ezgif-6-444bc44d7c-unscreen.gif?raw=true" width="200" height="200" alt="Custom GIF" style="margin-right: 50px;">
-  <img src="https://github.com/Soham-78micro/Gifs/blob/main/219923809-b86dc415-a0c2-4a38-b-unscreen.gif?raw=true" width="200" height="200" alt="Custom GIF">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://github.com/Soham-78micro/Gifs/blob/main/ezgif-6-444bc44d7c-unscreen.gif?raw=true" width="200" height="200" alt="Custom GIF">
+    <img src="https://github.com/Soham-78micro/Gifs/blob/main/219923809-b86dc415-a0c2-4a38-b-unscreen.gif?raw=true" width="200" height="200" alt="Custom GIF">
+  </div>
 </div>
-
 
 ## 💫 About Me:
 🔐 CTF player and cybersecurity enthusiast 💻<br>📈 Trader and financial analyst 💹<br>🐍 Python-based algorithmic trading developer 🤖<br>💼 Currently working on:<br><br>Algorithmic trading strategies 📊<br>Full-stack development 🌐<br>🛠️ Learning HTML, CSS, and JavaScript 🚀<br>🌟 Always excited to learn and grow in tech and finance! 🧠
