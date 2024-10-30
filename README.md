@@ -10,6 +10,7 @@
   </div>
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/soham3456.png" alt="TryHackMe Badge" >
+
 ## 💫 About Me:
 🔐 CTF player and cybersecurity enthusiast 💻<br>📈 Trader and financial analyst 💹<br>🐍 Python-based algorithmic trading developer 🤖<br>💼 Currently working on:<br><br>Algorithmic trading strategies 📊<br>Full-stack development 🌐<br>🛠️ Learning HTML, CSS, and JavaScript 🚀<br>🌟 Always excited to learn and grow in tech and finance! 🧠
 
