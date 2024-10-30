@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Soham+Datta;CTF+Player+%26+Cybersecurity+Enthusiast;Trader+%26+Financial+Analyst;Python+Algorithmic+Trading+Developer&center=true&size=30&duration=3000&pause=1000&width=700" alt="Typing SVG" />
 </h1>
-<img src="https://tryhackme-badges.s3.amazonaws.com/soham3456.png" alt="TryHackMe Badge" />
+
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -9,7 +9,7 @@
     <img src="https://github.com/Soham-78micro/Gifs/blob/main/219923809-b86dc415-a0c2-4a38-b-unscreen.gif?raw=true" width="200" height="200" alt="Custom GIF">
   </div>
 </div>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/soham3456.png" alt="TryHackMe Badge" >
 ## 💫 About Me:
 🔐 CTF player and cybersecurity enthusiast 💻<br>📈 Trader and financial analyst 💹<br>🐍 Python-based algorithmic trading developer 🤖<br>💼 Currently working on:<br><br>Algorithmic trading strategies 📊<br>Full-stack development 🌐<br>🛠️ Learning HTML, CSS, and JavaScript 🚀<br>🌟 Always excited to learn and grow in tech and finance! 🧠
 
