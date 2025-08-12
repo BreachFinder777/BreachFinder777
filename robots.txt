@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://breachfinder777.github.io/BreachFinder777/sitemap.xml
