@@ -2,24 +2,33 @@ name: Update TryHackMe Badge
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:       # allows manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-badge:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Update README timestamp
         run: |
           sed -i "s/soham3456.png?t=[0-9]*/soham3456.png?t=$(date +%Y%m%d)/" README.md
 
-      - name: Commit changes
+      - name: Commit and push if changed
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Auto-update TryHackMe badge timestamp"
-          git push
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "Auto-update TryHackMe badge timestamp"
+            git push
+          fi
