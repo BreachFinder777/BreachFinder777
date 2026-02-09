@@ -415,14 +415,14 @@ export function App() {
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
                   <span className="text-terminal-green w-24 text-xs">EMAIL</span>
-                  <a href="mailto:soham@securetrader.dev" className="text-gray-300 hover:text-terminal-green transition-colors">
-                    soham@securetrader.dev
+                  <a href="mailto:sohamdatta343@gmail.com" className="text-gray-300 hover:text-terminal-green transition-colors">
+                    sohamdatta343@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center gap-4">
                   <span className="text-terminal-green w-24 text-xs">GITHUB</span>
-                  <a href="#" className="text-gray-300 hover:text-terminal-green transition-colors">
-                    @soham-datta
+                  <a href="https://github.com/BreachFinder777/BreachFinder777" className="text-gray-300 hover:text-terminal-green transition-colors">
+                    @BreachFinder777
                   </a>
                 </div>
                 <div className="flex items-center gap-4">
