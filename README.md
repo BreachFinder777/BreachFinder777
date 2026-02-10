@@ -35,7 +35,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🔝 Top Stats
 ![](https://github-readme-stats.vercel.app/api/top-repos?username=BreachFinder777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BreachFinder777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Most Used Languages" />
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=BreachFinder777&color=blueviolet&style=flat-square&label=Profile+Views)
 
